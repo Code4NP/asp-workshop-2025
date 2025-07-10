@@ -1,0 +1,21 @@
+[project]
+name = "workshop"
+channels = ["conda-forge", "bioconda"]
+platforms = ["linux-64"]
+
+[tasks]
+
+[dependencies]
+python = "=3.12"
+r-base = "=4.5"
+pip = "*"
+jupyter = "=1.1"
+jupyterlab = "=4"
+rich = "14"
+
+
+
+[pypi-dependencies]
+
+# See more config options at 
+# https://pixi.sh/configuration/
