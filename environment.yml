@@ -7,8 +7,13 @@ channels:
 
 dependencies:
   - python=3.12
+  - pip
   - conda-forge::jupyter
   - conda-forge::jupyterlab
   - conda-forge::r-base
   - conda-forge::notebook
   - conda-forge::nbconvert
+  - conda-forge::matplotlib
+  - conda-forge::pandas
+  - pip:
+      - nmrglue
