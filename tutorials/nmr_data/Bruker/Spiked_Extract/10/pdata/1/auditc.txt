@@ -1,0 +1,7 @@
+TITLE=1H of 1814E spiked  with Erythromycin in DMSO-d6
+24 ppm Spectra width
+0.5mg of Erythromycin spike in 320 uL DMSO-d6
+15 mm filling, 300 uL in 5 mm Shigemi tube
+1H 90 = 8.950 us @ 7.08 W
+T = 300 K, 6 June 2017
+SFU AV III HD with 5mm QCIF cryoprobeTITLE_END
