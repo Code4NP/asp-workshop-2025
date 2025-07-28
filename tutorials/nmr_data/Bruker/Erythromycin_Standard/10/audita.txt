@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.5pl6/data//JE_Erythromycin_1mg_NUS/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2017-02-16 11:38:18.957 -0800>,<nmrsu>,<SFU600>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2017-02-16 11:35:14.689 -0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       35 5A EC 37 72 4F 25 91 E8 32 F0 77 90 63 71 C0
+       data hash MD5: 128K
+       06 2B 92 41 EE 44 15 28 14 39 09 9A 4A 42 98 C9>)
+##END=
+
+$$ hash MD5
+$$ 9A AE E4 93 F2 B6 64 86 5C 46 66 38 1E 9A 49 F0

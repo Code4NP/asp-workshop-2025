@@ -1,0 +1,29 @@
+[project]
+name = "workshop"
+channels = ["conda-forge", "bioconda"]
+platforms = ["linux-64"]
+
+[tasks]
+
+[dependencies]
+python = "=3.12"
+pip = "*"
+jupyter = "=1.1"
+jupyterlab = "=4"
+rich = "14"
+flask = "3.1.1"
+pandas = "2.3.1"
+requests = "2.32.4"
+biopython = "1.85"
+pymzml = "2.5.11"
+matchms = "0.30.2"
+nmrglue = "0.9.0"
+plotly = "6.2.0"
+jq = "1.8"
+
+
+
+[pypi-dependencies]
+
+# See more config options at 
+# https://pixi.sh/configuration/

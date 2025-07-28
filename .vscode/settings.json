@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/home/env/.pixi/envs/default/bin/python",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.notebookKernel": "Python (pixi)",
+  "jupyter.jupyterServerEnv": {
+    "PYTHONPATH": "/home/env/.pixi/envs/default/bin/python",
+    "PATH": "/home/env/.pixi/envs/default/bin:$PATH" // Add this line
+  }
+}
